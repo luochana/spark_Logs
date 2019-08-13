@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5b025b1-b268-4d56-b21f-753a04259458" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/conf/flume/node1_flume.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/flume/node2_flume.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/flume/node3_flume.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/hadoop/core-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/hadoop/hdfs-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/hbase/hbase-env.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/hbase/hbase-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/kafka/consumer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/kafka/producer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/kafka/server.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/phoenix/hbase-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/spark/spark-env.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/zookeeper/zoo.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f5b025b1-b268-4d56-b21f-753a04259458" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/conf/flume/node3_flume.conf">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -100,7 +85,7 @@
         <entry file="file://$PROJECT_DIR$/conf/phoenix/hbase-site.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
-              <caret line="27" column="14" lean-forward="true" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+              <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -109,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/conf/zookeeper/zoo.cfg">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
-              <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+              <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -192,7 +177,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -218,18 +202,11 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="spark_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark_project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="Streaming" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -319,16 +296,17 @@
       <workItem from="1565675860896" duration="1012000" />
       <workItem from="1565676934168" duration="494000" />
       <workItem from="1565677457586" duration="2841000" />
+      <workItem from="1565682625713" duration="17000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34513000" />
+    <option name="totallyTimeSpent" value="34530000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19488817" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1970181" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -439,59 +417,21 @@
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/phoenix/phoenix-spark/4.14.2-HBase-1.4/phoenix-spark-4.14.2-HBase-1.4.jar!/org/apache/phoenix/spark/PhoenixRDD.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/conf/f1">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf/flume/node3_conf">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/f1" />
+    <entry file="file://$PROJECT_DIR$/conf/flume/node3_conf" />
     <entry file="file://$PROJECT_DIR$/conf/kafka/server.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-281" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conf/hbase/scriptFile.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf/flume/node3_flume.conf">
+    <entry file="file://$PROJECT_DIR$/conf/hbase/scriptFile.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Streaming/kafkaConsumer.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf/zookeeper/zoo.cfg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf/hbase/hbase-env.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2115">
-          <caret line="141" selection-start-line="141" selection-end-line="141" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf/hbase/hbase-site.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf/phoenix/hbase-site.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="14" lean-forward="true" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf/flume/node1_flume.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+        <state relative-caret-position="672">
+          <caret line="79" column="33" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
+          <folding>
+            <element signature="e#19#40#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -499,6 +439,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/flume/node3_flume.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/hbase/hbase-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -516,13 +470,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Streaming/kafkaConsumer.scala">
+    <entry file="file://$PROJECT_DIR$/conf/hbase/hbase-env.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="79" column="33" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
-          <folding>
-            <element signature="e#19#40#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="2115">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/phoenix/hbase-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/zookeeper/zoo.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/flume/node1_flume.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
         </state>
       </provider>
     </entry>
