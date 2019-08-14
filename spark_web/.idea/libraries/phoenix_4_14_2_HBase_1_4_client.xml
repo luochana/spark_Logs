@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="phoenix-4.14.2-HBase-1.4-client">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/桌面/phoenix-4.14.2-HBase-1.4-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/桌面/phoenix-4.14.2-HBase-1.4-client.jar!/" />
+      <root url="jar://$USER_HOME$/桌面/phoenix-4.14.2-HBase-1.4-client.jar!/org/apache/phoenix/shaded" />
+    </SOURCES>
+  </library>
+</component>

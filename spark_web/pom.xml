@@ -19,9 +19,31 @@
     </properties>
 
     <dependencies>
+
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
+            <exclusions>
+                <exclusion>
+                    <groupId>org.springframework.boot</groupId>
+                    <artifactId>spring-boot-starter-logging</artifactId>
+                </exclusion>
+                <exclusion>
+                    <groupId>org.slf4j</groupId>
+                    <artifactId>slf4j-log4j12</artifactId>
+                </exclusion>
+                <exclusion>
+                    <groupId>log4j</groupId>
+                    <artifactId>log4j</artifactId>
+                </exclusion>
+
+            </exclusions>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-log4j</artifactId>
+            <version>1.3.8.RELEASE</version>
         </dependency>
 
 
@@ -57,12 +79,6 @@
                     <artifactId>log4j</artifactId>
                 </exclusion>
             </exclusions>
-        </dependency>
-        <!-- https://mvnrepository.com/artifact/org.apache.phoenix/phoenix-client -->
-        <dependency>
-            <groupId>org.apache.phoenix</groupId>
-            <artifactId>phoenix-client</artifactId>
-            <version>4.14.2-HBase-1.4</version>
         </dependency>
 
 

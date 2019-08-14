@@ -19,7 +19,8 @@ public class pagesControllers {
             Class.forName("org.apache.phoenix.jdbc.PhoenixDriver");
             connection = DriverManager.getConnection("jdbc:phoenix:localhost:2181");
             statement = connection.createStatement();
-            statement.execute("upsert into test1 values (3, 'note of huhong')");
+            statement.execute("upsert into user values ('0005', 'luochan','success')");
+            connection.commit();
         } catch (Exception e) {
             e.printStackTrace();
         } finally {

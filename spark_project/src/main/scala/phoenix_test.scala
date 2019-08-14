@@ -9,7 +9,7 @@ object phoenix_test {
 
    val df = spark.read
     .format("org.apache.phoenix.spark")
-    .option("table", "test1")
+    .option("table", "user")
     .option("zkurl", "localhost:2181")
     .load()
 

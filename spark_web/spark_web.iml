@@ -29,12 +29,6 @@
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter:2.1.7.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:2.1.7.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.1.7.RELEASE" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-logging:2.1.7.RELEASE" level="project" />
-    <orderEntry type="library" name="Maven: ch.qos.logback:logback-classic:1.2.3" level="project" />
-    <orderEntry type="library" name="Maven: ch.qos.logback:logback-core:1.2.3" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-to-slf4j:2.11.2" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-api:2.11.2" level="project" />
-    <orderEntry type="library" name="Maven: org.slf4j:jul-to-slf4j:1.7.26" level="project" />
     <orderEntry type="library" name="Maven: javax.annotation:javax.annotation-api:1.3.2" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.yaml:snakeyaml:1.23" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-json:2.1.7.RELEASE" level="project" />
@@ -53,13 +47,18 @@
     <orderEntry type="library" name="Maven: org.jboss.logging:jboss-logging:3.3.2.Final" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml:classmate:1.4.0" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-web:5.1.9.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-log4j:1.3.8.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:jcl-over-slf4j:1.7.26" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:jul-to-slf4j:1.7.26" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-log4j12:1.7.26" level="project" />
+    <orderEntry type="library" name="Maven: log4j:log4j:1.2.17" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-starter-test:2.1.7.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-test:2.1.7.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-test-autoconfigure:2.1.7.RELEASE" level="project" />
-    <orderEntry type="library" name="Maven: com.jayway.jsonpath:json-path:2.4.0" level="project" />
-    <orderEntry type="library" name="Maven: net.minidev:json-smart:2.3" level="project" />
-    <orderEntry type="library" name="Maven: net.minidev:accessors-smart:1.2" level="project" />
-    <orderEntry type="library" name="Maven: org.ow2.asm:asm:5.0.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.jayway.jsonpath:json-path:2.4.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: net.minidev:json-smart:2.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: net.minidev:accessors-smart:1.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.ow2.asm:asm:5.0.4" level="project" />
     <orderEntry type="library" name="Maven: junit:junit:4.12" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.assertj:assertj-core:3.11.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.mockito:mockito-core:2.23.4" level="project" />
@@ -226,19 +225,6 @@
     <orderEntry type="library" name="Maven: com.ibm.icu:icu4j-localespi:60.2" level="project" />
     <orderEntry type="library" name="Maven: com.ibm.icu:icu4j-charset:60.2" level="project" />
     <orderEntry type="library" name="Maven: com.lmax:disruptor:3.3.6" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.phoenix:phoenix-client:4.14.2-HBase-1.4" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.phoenix:phoenix-flume:4.14.2-HBase-1.4" level="project" />
-    <orderEntry type="library" name="Maven: com.tdunning:json:1.8" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.flume:flume-ng-core:1.4.0" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.flume:flume-ng-sdk:1.4.0" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.flume:flume-ng-configuration:1.4.0" level="project" />
-    <orderEntry type="library" name="Maven: log4j:log4j:1.2.16" level="project" />
-    <orderEntry type="library" name="Maven: org.slf4j:slf4j-log4j12:1.7.26" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.avro:avro-ipc:1.7.3" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.velocity:velocity:1.7" level="project" />
-    <orderEntry type="library" name="Maven: org.mortbay.jetty:servlet-api:2.5-20110124" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.mina:mina-core:2.0.4" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.phoenix:phoenix-pig:4.14.2-HBase-1.4" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.phoenix:phoenix-spark:4.14.2-HBase-1.4" level="project" />
+    <orderEntry type="library" name="phoenix-4.14.2-HBase-1.4-client" level="project" />
   </component>
 </module>
