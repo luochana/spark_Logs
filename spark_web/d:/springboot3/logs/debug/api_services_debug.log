@@ -816,3 +816,1133 @@ java.net.ConnectException: 拒绝连接
 	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
 	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
 	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-07 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-07 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-07 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-07 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-07 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-07 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-07 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-07 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-08 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [Idle-Rpc-Conn-Sweeper-pool2-t1] [org.apache.hadoop.hbase.ipc.AbstractRpcClient] [INFO] - Cleanup idle connection to luochan-HP-Pavilion-Power-Laptop-15-cb0xx/127.0.1.1:16000
+2019-08-14-18-09 [Idle-Rpc-Conn-Sweeper-pool2-t1] [org.apache.hadoop.hbase.ipc.AbstractRpcClient] [INFO] - Cleanup idle connection to luochan-HP-Pavilion-Power-Laptop-15-cb0xx/127.0.1.1:16201
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-09 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-10 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-11 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-12 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-12 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-12 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-12 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-12 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-12 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-12 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-12 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-12 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-12 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-12 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [INFO] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-08-14-18-12 [http-nio-8888-exec-1-SendThread(localhost:2181)] [org.apache.zookeeper.ClientCnxn] [WARN] - Session 0x10000443b930025 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: 拒绝连接
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2019-08-14-18-12 [Thread-6] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] [INFO] - Shutting down ExecutorService 'applicationTaskExecutor'
