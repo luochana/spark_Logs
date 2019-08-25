@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5b025b1-b268-4d56-b21f-753a04259458" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../spark_web/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spark_web/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spark_web/src/main/java/com/luochan/spark_web/dao/HbasePhoenixDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spark_web/src/main/java/com/luochan/spark_web/domain/CourseClickCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spark_web/src/main/java/com/luochan/spark_web/utils/DateUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Streaming/kafkaConsumer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Streaming/kafkaConsumer.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spark_web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark_web/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spark_web/d:/springboot3/logs/debug/api_services_debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/../spark_web/d:/springboot3/logs/debug/api_services_debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spark_web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark_web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spark_web/spark_web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark_web/spark_web.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spark_web/src/main/java/com/luochan/spark_web/controllers/pagesControllers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spark_web/src/main/java/com/luochan/spark_web/controllers/pagesControllers.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -48,10 +39,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/Streaming/kafkaConsumer.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="59" column="70" lean-forward="true" selection-start-line="59" selection-start-column="70" selection-end-line="59" selection-end-column="81" />
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
               <folding>
-                <element signature="e#19#40#0" expanded="true" />
+                <element signature="e#20#42#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -60,7 +51,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/utils/DateUtils.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="225">
               <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="e#15#36#0" expanded="true" />
@@ -144,7 +135,6 @@
         <option value="$PROJECT_DIR$/src/main/scala/domain/CourseSearchCount.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/utils/DateUtils.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/test.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/Streaming/kafkaConsumer.scala" />
         <option value="$PROJECT_DIR$/conf/flume/node1_flume.conf" />
         <option value="$PROJECT_DIR$/conf/flume/node2_flume.conf" />
         <option value="$PROJECT_DIR$/conf/flume/node3_flume.conf" />
@@ -156,6 +146,7 @@
         <option value="$PROJECT_DIR$/conf/phoenix/hbase-site.xml" />
         <option value="$PROJECT_DIR$/src/main/scala/phoenix_test.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/utils/testConnect.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/Streaming/kafkaConsumer.scala" />
       </list>
     </option>
   </component>
@@ -195,10 +186,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="411" />
-    <option name="y" value="48" />
-    <option name="width" value="1360" />
-    <option name="height" value="1005" />
+    <option name="x" value="490" />
+    <option name="y" value="85" />
+    <option name="width" value="1150" />
+    <option name="height" value="930" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -206,7 +197,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -252,6 +242,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -362,17 +353,18 @@
       <workItem from="1565850544082" duration="948000" />
       <workItem from="1565852315811" duration="25000" />
       <workItem from="1565853201080" duration="1543000" />
+      <workItem from="1566726336075" duration="5502000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46991000" />
+    <option name="totallyTimeSpent" value="52493000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20553781" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20766774" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -495,16 +487,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/utils/testConnect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/utils/DateUtils.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="225">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="e#15#36#0" expanded="true" />
@@ -561,12 +546,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/utils/testConnect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/Streaming/kafkaConsumer.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="59" column="70" lean-forward="true" selection-start-line="59" selection-start-column="70" selection-end-line="59" selection-end-column="81" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
           <folding>
-            <element signature="e#19#40#0" expanded="true" />
+            <element signature="e#20#42#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bdf0b14-5617-41d9-ab19-13e9eba0810f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/luochan/spark_web/dao/HbasePhoenixDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/luochan/spark_web/domain/CourseClickCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/luochan/spark_web/utils/DateUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spark_project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark_project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d:/springboot3/logs/debug/api_services_debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/d:/springboot3/logs/debug/api_services_debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark_web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spark_web.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/luochan/spark_web/controllers/pagesControllers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luochan/spark_web/controllers/pagesControllers.java" afterDir="false" />
-    </list>
+    <list default="true" id="6bdf0b14-5617-41d9-ab19-13e9eba0810f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -203,7 +191,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="411" />
     <option name="y" value="48" />
     <option name="width" value="1360" />
@@ -361,15 +349,15 @@
       <workItem from="1565709138793" duration="7677000" />
       <workItem from="1565767377435" duration="8343000" />
       <workItem from="1565847794863" duration="39000" />
-      <workItem from="1565849683687" duration="5217000" />
+      <workItem from="1565849683687" duration="5467000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32049000" />
+    <option name="totallyTimeSpent" value="32299000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1920" height="1053" extended-state="7" />
+    <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2550586" />
