@@ -1,0 +1,5 @@
+create table LogInfo(ip varchar primary key,time varchar, courseId varchar, status varchar,referes varchar);
+
+create table CourseCount(courseCountId varchar primary key,CCount varchar);
+
+create table SearchCount(SearchCountId varchar primary key,SCount varchar);

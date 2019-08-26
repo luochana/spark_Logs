@@ -1,11 +1,16 @@
 package Streaming
 
 import domain.CheckLog
+import org.apache.log4j.{Level, Logger}
 import utils.DateUtils
 import org.apache.phoenix.spark._
 import org.apache.spark.sql.SparkSession
+import org.apache.spark.sql.functions._
+import org.apache.spark.sql.types._
 
 object kafkaConsumer {
+  Logger.getLogger("org").setLevel(Level.OFF)
+  Logger.getLogger("akka").setLevel(Level.OFF)
   def main(args:Array[String]):Unit={
     val spark = SparkSession
       .builder
@@ -21,30 +26,48 @@ object kafkaConsumer {
       .option("subscribe", "test")
       .load()
 
-    val LogInfo=messages.selectExpr("CAST(key AS STRING)", "CAST(value AS STRING)")
-      .as[(String, String)].map(_._2).map(lines=>{
+
+/*    val messages = spark
+      .readStream
+      .format("socket")
+      .option("host", "localhost")
+      .option("port", 9999)
+      .load()*/
+
+    val LogInfo=messages
+      .selectExpr("CAST(key AS STRING)", "CAST(value AS STRING)")
+      .as[(String, String)]
+      .map(_._2)
+    //  .as[String]
+
+      .map(lines=>{
       val infos=lines.split("\t")
       val ip=infos(0)
       val time=DateUtils.parseTime(infos(1))
-      var courseId=0
+      var courseId="0"
       val url=infos(2)
         .split(" ")(1)
       if(url.startsWith("/class")){
         val courceHTML=url.split("/")(2)
-        courseId=courceHTML.substring(0,courceHTML.lastIndexOf(".")).toInt
+        courseId=courceHTML.substring(0,courceHTML.lastIndexOf("."))
       }
-      CheckLog(ip,time,courseId,infos(3).toInt,infos(4))
-    }).filter(checkLog=>checkLog.courseId!=0)
+      CheckLog(ip,time,courseId,infos(3),infos(4))
+    }).filter((checkLog=>(!(checkLog.courseId).equals("0"))))
 
 
-    val allLogInfo=messages.selectExpr("CAST(key AS STRING)", "CAST(value AS STRING)")
-      .as[(String, String)].map(_._2).map(lines=>{
+    val allLogInfo=messages
+      .selectExpr("CAST(key AS STRING)", "CAST(value AS STRING)")
+      .as[(String, String)]
+      .map(_._2)
+     // .as[String]
+
+      .map(lines=>{
       val infos=lines.split("\t")
       val ip=infos(0)
       val time=DateUtils.parseTime(infos(1))
-      var courseId=0
+      var courseId="0"
       val url=infos(2)
-      CheckLog(ip,time,courseId,infos(3).toInt,infos(4))
+      CheckLog(ip,time,courseId,infos(3),infos(4))
     })
 
    // spark.sparkContext.parallelize(Seq(listLogInfo)).saveToPhoenix("LogInfo",Seq("ip","time","courseId","statusCode","searchUrl"),zkUrl = Some("localhost:2181"))
@@ -53,7 +76,7 @@ object kafkaConsumer {
     val CourseCount= LogInfo.map(x => {
       //将CheckLog格式的数据转为20180724_courseId
       x.time.substring(0, 8) + "_" + x.courseId
-    }).groupBy("value").count()
+    }).groupBy("value").count().toDF(Seq("CourseCountId","CCount"):_*)
 
    // spark.sparkContext.parallelize(Seq(listCourseCount)).saveToPhoenix("CourseCount", Seq("ID", "COUNT"), zkUrl = Some("localhost:2181"))
 
@@ -70,10 +93,10 @@ object kafkaConsumer {
         search=splits(1)
       }
       (x.time.substring(0,8),x.courseId,search)
-    }).filter(x=>x._3!="").map(info=>{
+    }).filter(x=>(!(x._3).equals(""))).map(info=>{
       val day_search_course=info._1+"_"+info._3+"_"+info._2
       day_search_course
-    }).groupBy("value").count()
+    }).groupBy("value").count().toDF(Seq("SearchCountId","SCount"):_*)
 
    // spark.sparkContext.parallelize(Seq(listSearchCount)).saveToPhoenix("SearchCount", Seq("ID", "COUNT"), zkUrl = Some("localhost:2181"))
 
@@ -95,9 +118,12 @@ object kafkaConsumer {
       .format("memory")
       .start()
     while(true){
+      spark.sql("select * from allLogInfo").show()
+      spark.sql("select * from CourseCount order by CCount desc limit 20").select(col("CourseCountId"),col("CCount").cast(StringType)).show()
+      spark.sql("select * from SearchCount order by SCount desc limit 20").select(col("SearchCountId"),col("SCount").cast(StringType)).show()
       spark.sql("select * from allLogInfo").saveToPhoenix("LogInfo",zkUrl = Some("localhost:2181"))
-      spark.sql("select * from CourseCount order by count desc limit 20").saveToPhoenix("CourseCount",zkUrl = Some("localhost:2181"))
-      spark.sql("select * from SearchCount order by count desc limit 20").saveToPhoenix("SearchCount",zkUrl = Some("localhost:2181"))
+      spark.sql("select * from CourseCount order by CCount desc limit 20").select(col("CourseCountId"),col("CCount").cast(StringType)).saveToPhoenix("CourseCount",zkUrl = Some("localhost:2181"))
+      spark.sql("select * from SearchCount order by SCount desc limit 20").select(col("SearchCountId"),col("SCount").cast(StringType)).saveToPhoenix("SearchCount",zkUrl = Some("localhost:2181"))
       Thread.sleep(20 * 1000)
     }
   }
