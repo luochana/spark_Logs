@@ -94,8 +94,8 @@ object kafkaConsumer {
       }
       (x.time.substring(0,8),x.courseId,search)
     }).filter(x=>(!(x._3).equals(""))).map(info=>{
-      val day_search_course=info._1+"_"+info._3+"_"+info._2
-      day_search_course
+      val day_search=info._1+"_"+info._3
+      day_search
     }).groupBy("value").count().toDF(Seq("SearchCountId","SCount"):_*)
 
    // spark.sparkContext.parallelize(Seq(listSearchCount)).saveToPhoenix("SearchCount", Seq("ID", "COUNT"), zkUrl = Some("localhost:2181"))

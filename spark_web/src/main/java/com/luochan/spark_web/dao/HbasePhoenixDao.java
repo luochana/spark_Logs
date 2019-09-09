@@ -2,17 +2,14 @@ package com.luochan.spark_web.dao;
 
 import com.luochan.spark_web.domain.CourseClickCount;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.ResultSet;
-import java.sql.Statement;
+import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
 public class HbasePhoenixDao {
     private static String driver = "org.apache.phoenix.jdbc.PhoenixDriver";
 
-    public List<CourseClickCount> queryCourse(String dateStr)
+    public static List<CourseClickCount> queryCourse(String dateStr)
     {
         Connection connection = null;
         Statement statement = null;
@@ -22,12 +19,19 @@ public class HbasePhoenixDao {
             Class.forName("org.apache.phoenix.jdbc.PhoenixDriver");
             connection = DriverManager.getConnection("jdbc:phoenix:localhost:2181");
             statement = connection.createStatement();
-            rs=statement.executeQuery("select * from CourseCount where id like "+"");
-            while (rs.next()) {
 
-                String rowKey=rs.getString("id");
-                String courseId=rowKey.split("-")[1];
-                Long value=Long.parseLong(rs.getString("count"));
+            PreparedStatement pstmt = connection.prepareStatement("select * from CourseCount where CourseCountId like ?");
+            pstmt.setString(1,"%"+dateStr+"%");
+            rs=pstmt.executeQuery();
+
+            while (rs.next()) {
+                String rowKey=rs.getString("CourseCountId");
+                String courseId=rowKey.split("_")[1];
+                Long value=Long.parseLong(rs.getString("CCOUNT"));
+
+                //********88
+             //   System.out.println(courseId+value);
+
                 CourseClickCount temp=new CourseClickCount();
                 temp.setName(courseId);
                 temp.setValue(value);
@@ -47,7 +51,7 @@ public class HbasePhoenixDao {
         return queryResult;
     }
 
-    public List<CourseClickCount> querySearch(String dateStr)
+    public static List<CourseClickCount> querySearch(String dateStr)
     {
         Connection connection = null;
         Statement statement = null;
@@ -57,11 +61,19 @@ public class HbasePhoenixDao {
             Class.forName("org.apache.phoenix.jdbc.PhoenixDriver");
             connection = DriverManager.getConnection("jdbc:phoenix:localhost:2181");
             statement = connection.createStatement();
-            rs=statement.executeQuery("select * from test1");
+
+            PreparedStatement pstmt = connection.prepareStatement("select * from SearchCount where SearchCountId like ?");
+            pstmt.setString(1,"%"+dateStr+"%");
+            rs=pstmt.executeQuery();
+
+           // rs=statement.executeQuery("select * from SearchCount where SearchCountId like "+"\""+dateStr+"%"+"\"");
             while (rs.next()) {
-                String rowKey=rs.getString("id");
-                String courseId=rowKey.split("-")[1];
-                Long value=Long.parseLong(rs.getString("count"));
+                String rowKey=rs.getString("SearchCountId");
+                String courseId=rowKey.split("_")[1];
+                Long value=Long.parseLong(rs.getString("SCOUNT"));
+                //*****
+                System.out.println(courseId+value);
+
                 CourseClickCount temp=new CourseClickCount();
                 temp.setName(courseId);
                 temp.setValue(value);

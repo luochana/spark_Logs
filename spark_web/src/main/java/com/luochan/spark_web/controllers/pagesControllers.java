@@ -1,14 +1,17 @@
 package com.luochan.spark_web.controllers;
 
+import com.luochan.spark_web.domain.CourseClickCount;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.Statement;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
+
+import static com.luochan.spark_web.dao.HbasePhoenixDao.queryCourse;
+import static com.luochan.spark_web.dao.HbasePhoenixDao.querySearch;
 
 @Controller
 @EnableAutoConfiguration
@@ -36,28 +39,31 @@ public class pagesControllers {
 
     @RequestMapping("index")
     public String test() {
-        Connection connection = null;
-        Statement statement = null;
-        try {
-            Class.forName("org.apache.phoenix.jdbc.PhoenixDriver");
-            connection = DriverManager.getConnection("jdbc:phoenix:localhost:2181");
-            statement = connection.createStatement();
-            statement.execute("upsert into user values ('0005', 'luochan','success')");
-            connection.commit();
-        } catch (Exception e) {
-            e.printStackTrace();
-        } finally {
-            try {
-                connection.close();
-                statement.close();
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
-        }
-
-       return "redirect:/index.html";
+        querySearch("20190807");
+        queryCourse("20190807");
+       return "redirect:/index1.html";
     }
 
+    @RequestMapping("get_coursecount")
+    @ResponseBody
+    public List<CourseClickCount> get_coursecount() throws Exception {
+        List<CourseClickCount> list=queryCourse("20190807");
+        for(CourseClickCount course:list) {
+            System.out.println(course.toString());
+            course.setName(map.get(course.getName()));
+           // System.out.println(map.get(course.getName()));
+        }
+        return list;
+    }
 
-
+    @RequestMapping("get_courseSearch")
+    @ResponseBody
+    public List<CourseClickCount> get_courseSearch() throws Exception {
+        List<CourseClickCount> list = querySearch("20190807");
+        for (CourseClickCount course : list) {
+            System.out.println(course.toString());
+            course.setName(searchMap.get(course.getName()));
+        }
+        return list;
+    }
 }
